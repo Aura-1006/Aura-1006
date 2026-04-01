@@ -1,5 +1,5 @@
 
-<!--✦ Nona | animator & builder
+✦ Nona | animator & builder
 影 のな
 
 🎨 Creating my own animated universe
@@ -9,7 +9,4 @@
 Currently working on:
 → A conversational AI project
 → My original animation universe
-
-"The world I couldn't live in, I'll build instead."
-**Aura-1006/Aura-1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
