@@ -1,6 +1,16 @@
-## Hi there 👋
 
-<!--
+<!--✦ Nona | animator & builder
+影 のな
+
+🎨 Creating my own animated universe
+🤖 Learning Python & building AI tools
+🌌 Dreaming in worlds that don't exist yet
+
+Currently working on:
+→ A conversational AI project
+→ My original animation universe
+
+"The world I couldn't live in, I'll build instead."
 **Aura-1006/Aura-1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
