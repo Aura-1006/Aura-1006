@@ -2,7 +2,7 @@
 ### animator • builder • worldmaker
 
 <p align="center">
-  <img src="blob:https://github.com/24cfd60f-0054-4ec2-b3bc-85f4bcad9f62" width="380" alt="Nona's character">
+  <img src="https://raw.githubusercontent.com/Aura-1006/Aura-1006/refs/heads/main/WhatsApp%20Image%202026-08-19%20at%206.10.07%20PM(1).jpeg" width="380" alt="Nona's character">
 </p>
 
 > Creating my own animated universe.  
