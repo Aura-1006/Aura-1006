@@ -15,5 +15,6 @@
 ### 🔥 Currently working on:
 - 🤖 **A conversational AI project**
 - 🎬 **My original animation universe → Suna**
+- https://www.instagram.com/nona_starlight/#
 
 ---
